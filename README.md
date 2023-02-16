@@ -1,6 +1,6 @@
 ## ✨ Trigger.dev GitHub Stars to Slack
 
-<a href="https://render.com/deploy?repo=https://github.com/triggerdotdev/github-stars-to-slack">
+<a href="https://render.com/deploy?repo=https://github.com/triggerdotdev-testing/test-repo-14">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
